@@ -41,6 +41,7 @@ If you are programmer PRs with fixes are warmly welcomed and acknowledged with a
 - [http://bbcgoodfood.com/](http://bbcgoodfood.com/)
 - [http://bonappetit.com/](http://bonappetit.com/)
 - [http://closetcooking.com/](http://closetcooking.com/)
+- [https://www.cookincanuck.com/](https://www.cookincanuck.com/)
 - [http://cookstr.com/](http://cookstr.com/)
 - [http://epicurious.com/](http://epicurious.com/)
 - [http://finedininglovers.com/](https://www.finedininglovers.com/)
