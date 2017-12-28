@@ -12,6 +12,9 @@ class CookinCanuck(AbstractScraper):
         return self.soup.find('h2', {'itemprop': 'name'}).get_text()
 
     def total_time(self):
+        preptime = soup.find('span', {'class': 'meta-label'}).nextSibling.nextSibling.get_text()
+        cookTime = soup.find('meta', {'itemprop': 'cookTime'}).get("content")
+
         return get_minutes(self.soup.find('meta', {'itemprop': 'totalTime'}))
 
     def ingredients(self):
